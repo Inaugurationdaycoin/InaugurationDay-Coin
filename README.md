@@ -1,4 +1,4 @@
-# InaugurationDay Coin (IDC) Website
+# Official website repository for InaugurationDay Coin (IDC), a deflationary meme token.
 
 Welcome to the official GitHub repository for the **InaugurationDay Coin (IDC)** website. This repository contains the source code for the website, which serves as the informational hub for IDC, a deflationary meme token built on the Polygon blockchain.
 
@@ -27,7 +27,7 @@ This repository includes:
 
 ## Deployment
 
-This website is hosted using **GitHub Pages**. To view the live website, visit: [https://<your-username>.github.io/inaugurationday-coin](https://<your-username>.github.io/inaugurationday-coin)
+This website is hosted using **GitHub Pages**.
 
 ## How to Contribute
 
