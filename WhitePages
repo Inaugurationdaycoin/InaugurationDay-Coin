@@ -1,0 +1,110 @@
+# InaugurationDay Coin (IDC) White Paper
+
+## Overview
+InaugurationDay Coin (IDC) is a deflationary meme cryptocurrency designed to commemorate global milestones and major events. Built on the Polygon blockchain, IDC combines fun, accessibility, and community engagement with a focus on long-term value and sustainability.
+
+---
+
+## Token Details
+
+| **Attribute**      | **Value**                                   |
+|--------------------|---------------------------------------------|
+| **Token Name**     | InaugurationDay Coin (IDC)                 |
+| **Symbol**         | IDC                                        |
+| **Blockchain**     | Polygon (MATIC)                           |
+| **Total Supply**   | 1,000,000,000,000 IDC                      |
+| **Decimals**       | 18                                         |
+| **Contract Address** | [0x61db20a09c51dc12656f6650e155f0766b78d529](https://polygonscan.com/address/0x61db20a09c51dc12656f6650e155f0766b78d529) |
+| **Burn Mechanism** | Manual burns initially; automatic planned  |
+
+---
+
+## Vision and Mission
+
+### Vision
+To become the go-to cryptocurrency for commemorating key milestones and fostering global community engagement through blockchain.
+
+### Mission
+To build a fun, accessible, and community-driven cryptocurrency that generates value for its holders while creating memorable connections around key events.
+
+---
+
+## Tokenomics
+
+### Initial Supply Distribution
+- **Public Allocation:** 70% of tokens allocated for public trading and community rewards.
+- **Creator Allocation:** 25% of tokens reserved for the development team and future initiatives.
+- **Marketing and Reserves:** 5% of tokens for airdrops, partnerships, and exchange listings.
+
+### Burn Mechanism
+- **Manual Burns:** Initially, IDC will use manual burns to reduce the total supply.
+- **Planned Automatic Burns:** A future smart contract upgrade will introduce a 1% automatic burn on transactions.
+
+### Key Features
+1. **Deflationary Supply:** Tokens are periodically burned to increase scarcity and long-term value.
+2. **Community Focused:** Designed to reward early adopters and active participants.
+3. **Transparency:** Fully verifiable contract on PolygonScan.
+
+---
+
+## Roadmap
+
+### Phase 1: Token Creation and Deployment
+- Launch the InaugurationDay Coin on the Polygon blockchain.
+- Verify the contract on PolygonScan.
+
+### Phase 2: Exchange Listings
+- List IDC on decentralized exchanges (DEXs) such as QuickSwap and Uniswap.
+- Apply for centralized exchange listings (e.g., CoinMarketCap, CoinGecko).
+
+### Phase 3: Community Engagement
+- Launch social media campaigns on Twitter, Telegram, and Discord.
+- Conduct airdrops to reward early supporters.
+
+### Phase 4: Burn Events and Mechanism Update
+- Conduct periodic manual burns.
+- Implement automatic burn functionality through contract upgrades.
+
+### Phase 5: Expansion and Partnerships
+- Establish strategic partnerships with influencers and organizations.
+- Launch commemorative NFT collections tied to IDC.
+
+---
+
+## Use Cases
+
+1. **Commemoration:** IDC can be used to celebrate significant global milestones and events.
+2. **Community Building:** Rewards for participation in community initiatives and events.
+3. **Trading and Speculation:** IDC provides an opportunity for trading on major exchanges.
+4. **Scarcity through Burns:** Create long-term value through consistent token burns.
+
+---
+
+## Security and Transparency
+
+- The contract code is fully verified and accessible on PolygonScan.
+- Built using OpenZeppelin libraries for robust security and reliability.
+- Burn events and token transfers are fully trackable on the blockchain.
+
+---
+
+## Social Media and Communication
+
+- **Website:** [https://inaugurationdaycoin.com](https://inaugurationdaycoin.com)
+- **Twitter:** [https://twitter.com/InaugurationDayCoin](https://twitter.com/InaugurationDayCoin)
+- **Telegram:** [https://t.me/InaugurationDayCoin](https://t.me/InaugurationDayCoin)
+- **GitHub:** [https://github.com/Inaugurationdaycoin/InaugurationDay-Coin](https://github.com/Inaugurationdaycoin/InaugurationDay-Coin)
+
+---
+
+## Contact Information
+
+For inquiries and collaborations, please reach out to us at:
+- Email: [contact@inaugurationdaycoin.com](mailto:contact@inaugurationdaycoin.com)
+
+---
+
+## Disclaimer
+This white paper is for informational purposes only and does not constitute investment advice. Please conduct your own research and consult with a financial advisor before participating in any cryptocurrency project.
+
+---
